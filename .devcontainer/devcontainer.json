@@ -1,0 +1,8 @@
+{
+  "name": "Ambiente C/C++",
+  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu",
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools"
+  ]
+}
